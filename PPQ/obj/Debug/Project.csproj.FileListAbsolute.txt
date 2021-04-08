@@ -1,0 +1,30 @@
+C:\Users\Admin\Desktop\Proj2\PPQ\bin\PPQ.dll.config
+C:\Users\Admin\Desktop\Proj2\PPQ\bin\PPQ.dll
+C:\Users\Admin\Desktop\Proj2\PPQ\bin\PPQ.pdb
+C:\Users\Admin\Desktop\Proj2\PPQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\Proj2\PPQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\Proj2\PPQ\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Proj2\PPQ\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Proj2\PPQ\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Admin\Desktop\Proj2\PPQ\obj\Debug\PPQ.dll
+C:\Users\Admin\Desktop\Proj2\PPQ\obj\Debug\PPQ.pdb
+F:\Study Document\FPT Semester 5\PRN292 - dotNet,C#\baitap\ProjectC#\PPQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Study Document\FPT Semester 5\PRN292 - dotNet,C#\baitap\ProjectC#\PPQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Study Document\FPT Semester 5\PRN292 - dotNet,C#\baitap\ProjectC#\PPQ\obj\Debug\Project.csprojAssemblyReference.cache
+F:\Study Document\FPT Semester 5\PRN292 - dotNet,C#\baitap\ProjectC#\PPQ\obj\Debug\Project.csproj.CoreCompileInputs.cache
+F:\Study Document\FPT Semester 5\PRN292 - dotNet,C#\baitap\ProjectC#\PPQ\obj\Debug\Project.csproj.CopyComplete
+F:\Study Document\FPT Semester 5\PRN292 - dotNet,C#\baitap\ProjectC#\PPQ\bin\ProjectProduct.dll.config
+F:\Study Document\FPT Semester 5\PRN292 - dotNet,C#\baitap\ProjectC#\PPQ\bin\ProjectProduct.dll
+F:\Study Document\FPT Semester 5\PRN292 - dotNet,C#\baitap\ProjectC#\PPQ\bin\ProjectProduct.pdb
+F:\Study Document\FPT Semester 5\PRN292 - dotNet,C#\baitap\ProjectC#\PPQ\obj\Debug\ProjectProduct.dll
+F:\Study Document\FPT Semester 5\PRN292 - dotNet,C#\baitap\ProjectC#\PPQ\obj\Debug\ProjectProduct.pdb
+C:\Users\Admin\Desktop\ProjectC#\PPQ\bin\ProjectProduct.dll.config
+C:\Users\Admin\Desktop\ProjectC#\PPQ\bin\ProjectProduct.dll
+C:\Users\Admin\Desktop\ProjectC#\PPQ\bin\ProjectProduct.pdb
+C:\Users\Admin\Desktop\ProjectC#\PPQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Admin\Desktop\ProjectC#\PPQ\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Admin\Desktop\ProjectC#\PPQ\obj\Debug\Project.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\ProjectC#\PPQ\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ProjectC#\PPQ\obj\Debug\Project.csproj.CopyComplete
+C:\Users\Admin\Desktop\ProjectC#\PPQ\obj\Debug\ProjectProduct.dll
+C:\Users\Admin\Desktop\ProjectC#\PPQ\obj\Debug\ProjectProduct.pdb
